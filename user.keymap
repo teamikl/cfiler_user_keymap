@@ -1,0 +1,14 @@
+# User defined keymap resource.
+
+ForceQuit                 = Ctrl + Alt + Q
+SwapPane                  = Ctrl+X
+Iconify                   = Ctrl Z
+Console                   = F3
+
+# Cursor
+CursorTop                 = Home
+CursorBottom              = End
+CursorDown                = J
+CursorUp                  = K
+FocusLeftOrGotoParentDir  = H
+FocusRightOrGotoParentDir = L
